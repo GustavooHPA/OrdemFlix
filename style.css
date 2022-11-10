@@ -194,7 +194,7 @@ body.FecharMenu main.Menu a {
     body {
         background-image: url("image/background.jpg");
         background-attachment: fixed;
-        background-size: 100vw 100vh;
+        background-size: 100% 100%;
         background-position: 0px 0px;
     }
 }
